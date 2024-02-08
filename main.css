@@ -1,0 +1,78 @@
+body {
+  background-color: whitesmoke;
+}
+
+h1 {
+  color: rgb(67, 146, 82);
+  font-family: "Playfair Display", "sans-serif";
+}
+
+h2 {
+  font-family: "Quicksand";
+}
+
+p {
+  background-color: whitesmoke;
+  font-family: "source sans pro", "sans-serif";
+  color: purple;
+}
+
+label {
+  color: goldenrod;
+  font-family: "inconsolata", "sans-serif";
+}
+
+.nepcuisine {
+  color: crimson;
+}
+.britcuisine {
+  color: red;
+}
+.swedecuisine {
+  color: rgb(254, 204, 2);
+}
+.auscuisine {
+  color: green;
+}
+.introduction {
+  color: blueviolet;
+  border-style: solid;
+  border-radius: 10px;
+}
+.websname {
+  color: whitesmoke;
+}
+#itemopt {
+  color: green;
+}
+.for {
+  color: goldenrod;
+}
+.introol {
+  color: blueviolet;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+body {
+  background: linear-gradient(whitesmoke, lightblue);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#FnC {
+  text-decoration: none;
+}
+#Bakedbeans {
+  text-decoration: none;
+}
+#sausages {
+  text-decoration: none;
+}
+#Momo {
+  text-decoration: none;
+}
+
+.main_heading {
+  text-align: center;
+}
